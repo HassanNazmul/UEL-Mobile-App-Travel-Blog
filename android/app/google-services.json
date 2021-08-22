@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "930420258966",
+    "firebase_url": "https://uel-travel-blog-62ba1.firebaseio.com",
+    "project_id": "uel-travel-blog-62ba1",
+    "storage_bucket": "uel-travel-blog-62ba1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930420258966:android:8018f336f93d90c32beab7",
+        "android_client_info": {
+          "package_name": "com.example.blog_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930420258966-7k199s98ne9k09k2d2i7v56vu9ac1drr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1KYIiiJ2RqpA8b0SejQhv-QOVOQ92nOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930420258966-7k199s98ne9k09k2d2i7v56vu9ac1drr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
